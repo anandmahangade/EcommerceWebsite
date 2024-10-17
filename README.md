@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-CommerceWebsite
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
@@ -20,3 +21,7 @@
 
 ### Order confirm page
 ![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+=======
+# EcommerceWebsite
+This is shopping website 
+>>>>>>> 80c0f90482aa8340ac850e95802e112072fd4b38
