@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-CommerceWebsite
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
@@ -24,4 +24,4 @@
 =======
 # EcommerceWebsite
 This is shopping website 
->>>>>>> 80c0f90482aa8340ac850e95802e112072fd4b38
+
