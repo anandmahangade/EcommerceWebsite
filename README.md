@@ -26,7 +26,4 @@
 This is shopping website 
 
 
-Demo Video
-
-https://photos.onedrive.com/share/01CB9A81ED49FBA2!sc902397e393f40eebd32efd286f83dea?cid=01CB9A81ED49FBA2&resId=01CB9A81ED49FBA2!sc902397e393f40eebd32efd286f83dea&ithint=video&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy8wMWNiOWE4MWVkNDlmYmEyL0VYNDVBc2tfT2U1QXZUTHYwb2I0UGVvQkp2YlA1RlN2TFNmMWdSZUtOcnZSVFE
 
